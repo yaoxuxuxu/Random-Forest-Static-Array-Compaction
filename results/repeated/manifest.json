@@ -1,0 +1,14 @@
+{
+  "model": "forest",
+  "runs": 10,
+  "dataset": "data/mushroom.csv",
+  "summary_csv": "results/repeated/mushroom_forest_10_runs.csv",
+  "metrics": [
+    "object_memory_bytes",
+    "static_memory_bytes",
+    "memory_saved_percent",
+    "object_predict_ms",
+    "static_predict_ms",
+    "time_saved_percent"
+  ]
+}

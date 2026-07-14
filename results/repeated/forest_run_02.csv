@@ -1,0 +1,2 @@
+dataset,model,train_rows,test_rows,features,classes,nodes,accuracy,object_memory_bytes,static_memory_bytes,memory_saved_percent,object_predict_ms,static_predict_ms,time_saved_percent
+data/mushroom.csv,forest,6093,2031,117,2,1327,1.0,252680,17251,93.17278771568782,35.89687499970751,7.071041999552108,80.30178950226245
